@@ -1,0 +1,12 @@
+{
+  "name": "bunnyjs",
+  "version": "0.0.1",
+  "private": false,
+  "engines": {
+    "node": "0.10.*",
+    "npm": "1.4.*"
+  },
+  "dependencies": {
+    "amqplib": "0.3.0"
+  }
+}
